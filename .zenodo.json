@@ -1,0 +1,22 @@
+{
+  "title": "Revisiting Differentially Private Federated Learning for Tabular Data: A Matched-Accounting Benchmark of Boosting versus DP-SGD",
+  "upload_type": "software",
+  "access_right": "open",
+  "description": "Source code, experimental configurations, privacy-accounting parameters, and result logs for the matched-accounting benchmark comparing differentially private gradient boosting against DP-SGD for federated learning on tabular data. Both method families are calibrated with the same privacy accountant to identical (epsilon, delta) budgets.",
+  "creators": [
+    {
+      "name": "Alzahrani, Ahmed",
+      "orcid": "0000-0003-3261-4413",
+      "affiliation": "Faculty of Computing and Information Technology (FCIT), King Abdulaziz University, Jeddah, Saudi Arabia"
+    }
+  ],
+  "keywords": [
+    "differential privacy",
+    "federated learning",
+    "tabular data",
+    "gradient boosting",
+    "DP-SGD",
+    "privacy accounting",
+    "benchmark"
+  ]
+}
